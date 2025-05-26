@@ -1,0 +1,248 @@
+html{
+    /* background-color: rgb(186, 182, 182); */
+    background-color: #9d9a9a;
+}
+
+.Heading{
+    left: 20%;
+    position: absolute;
+    float: left;
+    clear: both;
+    color: white;
+    font-weight: 700;
+}
+
+.Hi h1, .Hi h2{
+    display: inline;
+    font-weight: 700;
+    color: white;
+}
+
+.Hi h2{
+    font-size: medium;
+    float: left;
+    clear: both;
+}
+
+.home{
+    position: absolute;
+    left: 70%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.about{
+    position: absolute;
+    left: 75%;
+}
+
+.contact{
+    position: absolute;
+    left: 80%;
+}
+
+.Hi{
+    position: relative;
+}
+
+.travelling h1{
+    color: white;
+    float: left;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-60%);
+    transform: translateX(-50%);
+    transform: translateZ(-80%);
+    margin-top: -20px;
+}
+
+.travelling h2{
+    color: orangered;
+    background-color: white;
+    border-radius: 40px;
+    float: left;
+    position: absolute;
+    font-size: large;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-60%);
+    transform: translateX(-52%);
+    transform: translateZ(-80%);
+    margin-top: 65px;
+    width: 15%;
+    text-align: center;
+    padding: 10px;
+}
+
+.travelling h3{
+    color: white;
+    float: left;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-60%);
+    transform: translateX(-40%);
+    /* transform: translateZ(-80%); */
+    margin-top: 30px;
+}
+
+.travelling h3{
+    width: 1000px;
+}
+
+.image1{
+    width: 100%;
+}
+
+.deganwy{
+    height: 200px;
+    /* width: 30%; */
+    float: left;
+    margin-top: 6%;
+    margin-left: 30%;
+}
+
+.deganwy_text{
+    float: left;
+    width: 350px;
+    height: 180px;
+    margin-top: 6%;
+    padding: 10px;
+    background-color: white;
+}
+
+.deg_but{
+    margin-left: 20px;
+    margin-top: -5px;
+    font-size: medium;
+    text-align: center;
+    font-weight: 200;
+    width: 60px;
+    padding: 4px;
+    color: orangered;
+    border: 2px solid orangered;
+    border-radius: 20px;
+}
+
+.desert{
+    float: left;
+    height: 200px;
+    margin-top: 26%;
+    margin-left: -20%;
+}
+
+.desert_text{
+    margin-top: 26%;
+    width: 350px;
+    height: 160px;
+    margin-left: 30%;
+    padding: 20px;
+    background-color: white;
+}
+
+.des_but{
+    margin-left: 20px;
+    margin-top: -5px;
+    font-size: medium;
+    text-align: center;
+    font-weight: 200;
+    width: 60px;
+    padding: 5px;
+    color: orangered;
+    border: 2px solid orangered;
+    border-radius: 20px;
+}
+
+.background{
+    width: 100%;
+    height: 350px;
+    background-color: white;
+    margin-top: 100px;
+}
+
+.Adventurous{
+    background-color: rgb(31, 31, 42);
+    float: left;
+    width: 250px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-top: -275px;
+    margin-left: 22.8%;
+}
+
+.adventure{
+    width: 30px;
+    margin-bottom: -10px;
+}
+
+.Less_Price{
+    background-color: rgba(231, 72, 72, 0.881);
+    float: left;
+    width: 250px;
+    height: 191px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-top: -275px;
+    margin-left: 42%;
+}
+
+.less_price{
+    width: 30px;
+    margin-bottom: -10px;
+}
+
+.align{
+    align-items: center;
+}
+
+.Experience{
+    background-color: rgb(31, 31, 42);
+    float: left;
+    width: 250px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-top: -275px;
+    margin-left: 61.3%;
+}
+
+.experience{
+    width: 45px;
+    margin-bottom: -10px;
+}
+
+.contact .twitter_logo, .contact .insta_logo, .contact .fb_logo{
+    width: 45px;
+}
+
+.fb_logo{
+    float: left;
+    margin-left: -400%;
+}
+
+.twitter_logo{
+    float: left;
+    margin-left: -350%;
+}
+
+.insta_logo{
+    float: left;
+    margin-left: -300%;
+}
+
+.contactme{
+    padding: 30px 30px 30px 10px;
+}
+
+.supcont{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    /* width: 800px; */
+}
